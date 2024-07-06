@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "8214000000007001",
+      "name": "starapi",
+      "domain": {
+        "id": "50021252621",
+        "name": "starapi-60030724845.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60030724845",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
